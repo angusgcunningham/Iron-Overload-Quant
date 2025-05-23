@@ -1,6 +1,5 @@
 # Iron-Overload-Quant
 
-````markdown
 # Quantification of Hepatic Iron Overload in Thalassemia Patients Using MRI
 
 This repository contains code and resources for implementing and evaluating two MRI T2* mapping techniques—Alternating Direction Method of Multipliers (ADMM) and Levenberg–Marquardt (LM)—to quantify hepatic iron overload in transfusion-dependent thalassemia patients. The project was carried out as part of the Computational Modelling for Biomedical Imaging (QHLX2) module at University College London.
@@ -50,7 +49,6 @@ Regular blood transfusions in β-thalassemia major lead to progressive iron over
    ```bash
    git clone https://github.com/angusgcunningham/Iron-Overload-Quant.git
    cd Iron-Overload-Quant
-````
 
 2. **Add project folders to MATLAB path**
 
